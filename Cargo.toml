@@ -8,12 +8,10 @@ edition = "2021"
 [dependencies]
 ndarray = { version = "0.15.0", features = ["serde-1", "rayon"] }
 rand = { version = "0.8.5", features = ["serde1"] }
-#smallvec = { version = "1.8.0", features = ["serde"] }
 itertools = "0.10.3"
 rayon = "1.0.0"
 serde = { version = "1.0.0", features = ["rc"] }
 serde_derive = "1.0.0"
-#hibitset = "0.6.3"
 
 
 [[test]]
