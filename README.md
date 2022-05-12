@@ -1,2 +1,3 @@
 # algo_diff
-Algorithmic Differentiation (AD)
+Algorithmic Differentiation in Rust  
+
