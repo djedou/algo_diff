@@ -9,7 +9,7 @@ use crate::{
 use std::fmt::Debug;
 
 
-/// # Sigmoid Operator Graph
+/// # Tanh Operator Graph (not finished, don't use this)
 /// ```
 /// use algo_diff::graphs::{TanhGraph, Graph};
 /// use algo_diff::maths::Matrix;

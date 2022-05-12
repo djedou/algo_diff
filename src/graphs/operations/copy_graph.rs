@@ -8,7 +8,7 @@ use crate::{
 use std::fmt::Debug;
 
 
-/// # Dot Operator Graph
+/// # Copy Operator Graph
 /// ```
 /// use algo_diff::graphs::{CopyGraph, Graph};
 /// use algo_diff::maths::Matrix;
